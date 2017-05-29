@@ -1,5 +1,6 @@
 # SimpleSniff
-A very simple sniff tool implementation with the same basic function of wireshark by pyqt4 and scapy
+
+A very simple sniff tool implementation with the same basic function of wireshark by pyqt4 and scapy. 
 
 ## Prerequisite
 
@@ -39,6 +40,9 @@ Here we give the `pyqt.ui` file
 ## Demo
 
 ![demo](demo.gif)
+
+If you like, please star it!!!
+Welcome comtributors
 
 ## ScreenShot
 
