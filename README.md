@@ -1,5 +1,5 @@
 # SimpleSniff
-A simple sniff tool with the same basic function of wireshark by pyqt4 and scapy
+A very simple sniff tool implementation with the same basic function of wireshark by pyqt4 and scapy
 
 ## Prerequisite
 
@@ -17,7 +17,7 @@ cd SimpleSniff
 sudo python simple_sniff.py
 ```
 
-** Note** : because scapy requires sudo prevelige to sniff the package from the network interface, so we use `sudo` to execute
+**Note** : because scapy requires sudo prevelige to sniff the package from the network interface, so we use `sudo` to execute
 
 ### For developement tips
 
